@@ -24,6 +24,11 @@
 @property(nonatomic, strong) NSUUID *proximityUUID;
 @property(nonatomic, strong) CBPeripheralManager *peripheralManager;
 
+@property (nonatomic, weak) IBOutlet UILabel *stateLabel;
+@property (nonatomic, weak) IBOutlet UILabel *uuidLabel;
+@property (nonatomic, weak) IBOutlet UILabel *majorNumLabel;
+@property (nonatomic, weak) IBOutlet UILabel *minorNumLabel;
+
 @end
 
 @implementation ViewController
@@ -40,9 +45,15 @@
     
     self.peripheralManager = [[CBPeripheralManager alloc] initWithDelegate:self queue:dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0)];
     
+    // 各信号の情報をラベルへ適用させる
+    self.uuidLabel.text = UUID;
+    self.majorNumLabel.text = [NSString stringWithFormat:@"%d", MAJOR];
+    self.minorNumLabel.text = [NSString stringWithFormat:@"%d", MINOR];
+    
     // アドバタイズ開始処理
     // CBPeripheralManagerState の状態は Bluetoothの状態（電源のOn,Offやアプリケーションに実行権限があるかなど）を確認してくれる。
     if (self.peripheralManager.state == CBPeripheralManagerStatePoweredOn) {
+        
         [self startAdvertising];
     }
 }
@@ -55,6 +66,8 @@
 
 -(void)startAdvertising
 {
+    NSLog(@"startAdvertising");
+    
     CLBeaconRegion *beaconRegion = [[CLBeaconRegion alloc] initWithProximityUUID:self.proximityUUID
                                                                            major: MAJOR
                                                                            minor: MINOR
@@ -70,6 +83,8 @@
 - (void)peripheralManagerDidStartAdvertising:(CBPeripheralManager *)peripheral error:(NSError *)error {
     
     if (error) {
+        
+        [self resetLabels];
         
         NSLog(@"Failed to start advertising with error:%@", error);
     }
@@ -125,7 +140,19 @@
         }
     }
     
+    self.stateLabel.text = stateStr;
+    
     NSLog(@"stateStr = %@", stateStr);
+    
+}
+
+
+- (void)resetLabels {
+    
+    self.stateLabel.text = @"---";
+    self.uuidLabel.text = nil;
+    self.majorNumLabel.text = nil;
+    self.minorNumLabel.text = nil;
     
 }
 
