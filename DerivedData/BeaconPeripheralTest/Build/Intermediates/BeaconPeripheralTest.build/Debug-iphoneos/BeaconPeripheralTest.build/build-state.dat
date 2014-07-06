@@ -284,9 +284,9 @@ t1404428291
 s2028
 
 N/Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/Base.lproj/Main.storyboard
-c0000000053B8AD350000000000002237
-t1404611893
-s8759
+c0000000053B90D190000000000003153
+t1404636441
+s12627
 
 N/Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/BeaconPeripheralTest-Info.plist
 c0000000053B72E24000000000000045A
@@ -357,20 +357,20 @@ t1404485272
 s111696
 
 N/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphoneos/BeaconPeripheralTest.app
-t1404612409
+t1404636447
 s408
 
 N/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphoneos/BeaconPeripheralTest.app.dSYM
-t1404612313
+t1404612409
 s102
 
 N/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphoneos/BeaconPeripheralTest.app/Base.lproj/Main.storyboardc
-t1404611901
+t1404636447
 s170
 
 N/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphoneos/BeaconPeripheralTest.app/BeaconPeripheralTest
 t1404612409
-s60316
+s70928
 
 N/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphoneos/BeaconPeripheralTest.app/Info.plist
 t1404513881
@@ -403,16 +403,17 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies6cd0ebb8e668b941^ef6fecb8e668b941^---0#1#1#--18"Check dependencies36"62A7C7A6-25FD-476F-8026-2332E489239B-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies9a2595994469b941^0dc1b1994469b941^---0#1#1#--18"Check dependencies36"09A9A0FE-A7FC-4928-A3EF-998F5366F153-
 
 CCodeSign /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphoneos/BeaconPeripheralTest.app
-s426305209.210005
-e426305209.363115
+s426329247.639011
+e426329248.220196
 r1
 xCodeSign
 x/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphoneos/BeaconPeripheralTest.app
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CodeSign DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphoneos/BeaconPeripheralTest.app96"CodeSign DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphoneos/BeaconPeripheralTest.app56d735b9e668b941^c3f55cb9e668b941^---0#0#1#-19%DVTDocumentLocation2@147"file:///Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphoneos/BeaconPeripheralTest.app/0000000000000000^1245"CodeSign DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphoneos/BeaconPeripheralTest.app    cd /Users/maedaseiya/ios_projects/BeaconPeripheralTest    export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    Using code signing identity "iPhone Developer: Seiya Maeda (B5GXNYM7V8)" and provisioning profile "AppDebug-dev" (A48C9BCF-B838-4CFB-9611-2DAA3D65DF8F)    /usr/bin/codesign --force --sign A2751ED6B794E074834040969121650E99B7CAF1 --resource-rules=/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphoneos/BeaconPeripheralTest.app/ResourceRules.plist --entitlements /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphoneos/BeaconPeripheralTest.build/BeaconPeripheralTest.xcent /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphoneos/BeaconPeripheralTest.app36"93AE3998-B5B4-496F-BD77-8BAC1525E585-
-b97BCC81C-5F65-4297-956B-938ED5061748
+o/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphoneos/BeaconPeripheralTest.app: replacing existing signature
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CodeSign DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphoneos/BeaconPeripheralTest.app96"CodeSign DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphoneos/BeaconPeripheralTest.appb3d3a39f4469b941^356038a04469b941^-170"/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphoneos/BeaconPeripheralTest.app: replacing existing signature-0#0#1#-19%DVTDocumentLocation2@147"file:///Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphoneos/BeaconPeripheralTest.app/0000000000000000^1245"CodeSign DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphoneos/BeaconPeripheralTest.app    cd /Users/maedaseiya/ios_projects/BeaconPeripheralTest    export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    Using code signing identity "iPhone Developer: Seiya Maeda (B5GXNYM7V8)" and provisioning profile "AppDebug-dev" (A48C9BCF-B838-4CFB-9611-2DAA3D65DF8F)    /usr/bin/codesign --force --sign A2751ED6B794E074834040969121650E99B7CAF1 --resource-rules=/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphoneos/BeaconPeripheralTest.app/ResourceRules.plist --entitlements /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphoneos/BeaconPeripheralTest.build/BeaconPeripheralTest.xcent /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphoneos/BeaconPeripheralTest.app36"12CA3A34-38FF-4EA3-83C1-D15AC3D855D8-
+b8C48A3DF-F046-4F2B-ADA1-BC9526FFC155
 
 CCompileAssetCatalog /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphoneos/BeaconPeripheralTest.app /Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/Images.xcassets
 s426178073.208354
@@ -496,13 +497,13 @@ CCompileC DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralT
 r0
 
 CCompileStoryboard /Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/Base.lproj/Main.storyboard
-s426304693.983431
-e426304701.061638
+s426329241.701206
+e426329247.592705
 r1
 xCompileStoryboard
 x/Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/Base.lproj/Main.storyboard
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"CompileStoryboard BeaconPeripheralTest/Base.lproj/Main.storyboard65"CompileStoryboard BeaconPeripheralTest/Base.lproj/Main.storyboard5fd3fbb5e468b941^47740fbde468b941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/Base.lproj/Main.storyboard0000000000000000^891"CompileStoryboard BeaconPeripheralTest/Base.lproj/Main.storyboard    cd /Users/maedaseiya/ios_projects/BeaconPeripheralTest    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphoneos/BeaconPeripheralTest.app/Base.lproj/Main.storyboardc /Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/Base.lproj/Main.storyboard36"67A2F3CE-3059-4646-8399-2556B62530FB-
-b2237E157-3E51-4BE3-8939-36AB524CEFB4
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"CompileStoryboard BeaconPeripheralTest/Base.lproj/Main.storyboard65"CompileStoryboard BeaconPeripheralTest/Base.lproj/Main.storyboard8941b4994469b941^a1bc979f4469b941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/Base.lproj/Main.storyboard0000000000000000^891"CompileStoryboard BeaconPeripheralTest/Base.lproj/Main.storyboard    cd /Users/maedaseiya/ios_projects/BeaconPeripheralTest    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphoneos/BeaconPeripheralTest.app/Base.lproj/Main.storyboardc /Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/Base.lproj/Main.storyboard36"4EF39585-F654-414E-BE48-301394F2E685-
+b8C48A3DF-F046-4F2B-ADA1-BC9526FFC155
 
 CCopyStringsFile /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphoneos/BeaconPeripheralTest.app/en.lproj/InfoPlist.strings BeaconPeripheralTest/en.lproj/InfoPlist.strings
 s426178073.206588
@@ -666,11 +667,11 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection251"Proces
 bDE76DE5A-D7E7-495F-8C22-68F633DEF595
 
 CTouch /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphoneos/BeaconPeripheralTest.app
-s426304701.155176
-e426304701.161609
+s426329247.608307
+e426329247.637154
 r1
 xTouch
 x/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphoneos/BeaconPeripheralTest.app
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection145"Touch /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphoneos/BeaconPeripheralTest.app93"Touch DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphoneos/BeaconPeripheralTest.appa7ca27bde468b941^076229bde468b941^---0#0#1#--503"Touch DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphoneos/BeaconPeripheralTest.app    cd /Users/maedaseiya/ios_projects/BeaconPeripheralTest    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphoneos/BeaconPeripheralTest.app36"79D37288-CED9-4AC7-BB2A-2FF7A7C99DA5-
-b2237E157-3E51-4BE3-8939-36AB524CEFB4
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection145"Touch /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphoneos/BeaconPeripheralTest.app93"Touch DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphoneos/BeaconPeripheralTest.appd1049e9f4469b941^492ca99f4469b941^---0#0#1#--503"Touch DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphoneos/BeaconPeripheralTest.app    cd /Users/maedaseiya/ios_projects/BeaconPeripheralTest    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphoneos/BeaconPeripheralTest.app36"DAEFD4B8-D746-41D0-9713-8EE9D7B3B4ED-
+b8C48A3DF-F046-4F2B-ADA1-BC9526FFC155
 
