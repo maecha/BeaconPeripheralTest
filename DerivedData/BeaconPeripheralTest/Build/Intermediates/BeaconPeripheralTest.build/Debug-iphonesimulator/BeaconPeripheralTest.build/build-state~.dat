@@ -1,371 +1,0 @@
-TBeaconPeripheralTest
-v6
-r1
-cCheck dependencies
-cProcessPCH /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/PrecompiledHeaders/BeaconPeripheralTest-Prefix-athjztyhwqgabbeamvlrekrmoqaa/BeaconPeripheralTest-Prefix.pch.pch BeaconPeripheralTest/BeaconPeripheralTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/Objects-normal/i386/ViewController.o /Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/Objects-normal/i386/AppDelegate.o /Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/Objects-normal/i386/main.o /Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app/BeaconPeripheralTest normal i386
-cCopyStringsFile /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app/en.lproj/InfoPlist.strings BeaconPeripheralTest/en.lproj/InfoPlist.strings
-cCompileStoryboard /Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/Base.lproj/Main.storyboard
-cCompileAssetCatalog /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app /Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/Images.xcassets
-cProcessInfoPlistFile /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app/Info.plist /Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/BeaconPeripheralTest-Info.plist
-cGenerateDSYMFile /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app.dSYM /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app/BeaconPeripheralTest
-cTouch /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
-c0000000053119F8A0000000000000198
-t1393663882
-s408
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
-c00000000539662C800000000000003B4
-t1402364616
-s948
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
-c00000000539662D6000000000000019E
-t1402364630
-s414
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c00000000539662DB0000000000446820
-t1402364635
-s4483104
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
-c00000000539662DA00000000000F1A80
-t1402364634
-s989824
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c00000000539662DE000000000088D8C0
-t1402364638
-s8968384
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c00000000539662EA0000000001F1DE10
-t1402364650
-s32628240
-
-N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
-c000000005396635E0000000000000ADC
-t1402364766
-s2780
-
-N/Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/AppDelegate.m
-c0000000053B5E00300000000000007EC
-t1404428291
-s2028
-
-N/Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/Base.lproj/Main.storyboard
-c0000000053B89D340000000000001938
-t1404607796
-s6456
-
-N/Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/BeaconPeripheralTest-Info.plist
-c0000000053B72E24000000000000045A
-t1404513828
-s1114
-
-N/Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/BeaconPeripheralTest-Prefix.pch
-c0000000053B5E0030000000000000158
-t1404428291
-s344
-
-N/Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/Images.xcassets
-c0000000053B5E0030000000000000088
-t1404428291
-s136
-
-N/Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/ViewController.m
-c0000000053B89CF8000000000000140B
-t1404607736
-s5131
-
-N/Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/en.lproj/InfoPlist.strings
-c0000000053B5E003000000000000002D
-t1404428291
-s45
-
-N/Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/main.m
-c0000000053B5E0030000000000000166
-t1404428291
-s358
-
-N/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/Objects-normal/i386/AppDelegate.o
-t1404607865
-s62440
-
-N/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/Objects-normal/i386/BeaconPeripheralTest.LinkFileList
-c0000000053B89D780000000000000281
-t1404607864
-s641
-
-N/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/Objects-normal/i386/ViewController.o
-t1404607865
-s69028
-
-N/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/Objects-normal/i386/main.o
-t1404607865
-s3600
-
-N/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/assetcatalog_dependencies.txt
-t1404607866
-s564
-
-N/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/assetcatalog_generated_info.plist
-t1404607866
-s525
-
-N/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/PrecompiledHeaders/BeaconPeripheralTest-Prefix-athjztyhwqgabbeamvlrekrmoqaa/BeaconPeripheralTest-Prefix.pch.pch
-t1404607864
-s123588
-
-N/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app
-t1404607866
-s306
-
-N/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app.dSYM
-t2
-s0
-
-N/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app/Base.lproj/Main.storyboardc
-t1404607865
-s170
-
-N/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app/BeaconPeripheralTest
-t1404607865
-s29896
-
-N/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app/Info.plist
-t1404607866
-s973
-
-N/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app/PkgInfo
-t1404607866
-s8
-
-N/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app/en.lproj/InfoPlist.strings
-t1404607865
-s42
-
-CBuild AST from /Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/AppDelegate.m
-r0
-
-CBuild AST from /Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/ViewController.m
-r0
-
-CBuild AST from /Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/main.m
-r0
-
-CCheck dependencies
-r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciescb840ff8d468b941^c6151bf8d468b941^---0#1#1#--18"Check dependencies36"B66AFBB8-4F3A-4798-A34B-8AFF1A632B46-
-
-CCompileAssetCatalog /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app /Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/Images.xcassets
-s426300665.353203
-e426300666.986626
-r1
-xCompileAssetCatalog
-x/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app
-x/Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/Images.xcassets
-o/* com.apple.actool.compilation-results */
-o/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app/LaunchImage-700-568h@2x.png
-o/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app/Assets.car
-o/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/assetcatalog_generated_info.plist
-o
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection151"CompileAssetCatalog DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app BeaconPeripheralTest/Images.xcassets151"CompileAssetCatalog DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app BeaconPeripheralTest/Images.xcassetsa48a5af9d468b941^fb93fcfad468b941^-592"/* com.apple.actool.compilation-results *//Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app/LaunchImage-700-568h@2x.png/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app/Assets.car/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@96"file:///Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/Images.xcassets/0000000000000000^1439"CompileAssetCatalog DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app BeaconPeripheralTest/Images.xcassets    cd /Users/maedaseiya/ios_projects/BeaconPeripheralTest    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app /Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/Images.xcassets36"EEAE5659-1A37-4747-AB94-EEE5FC999623-
-b7AB1F9A9-C425-4B48-AF11-95A30E11A43D
-
-CCompileC DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/Objects-normal/i386/AppDelegate.o /Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s426300664.645087
-e426300665.040658
-r1
-xCompileC
-xDerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/Objects-normal/i386/AppDelegate.o
-x/Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/AppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/AppDelegate.m
-d/Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/AppDelegate.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/AppDelegate.m274"CompileC DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/Objects-normal/i386/AppDelegate.o BeaconPeripheralTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8449a5f8d468b941^166d0af9d468b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/AppDelegate.m0000000000000000^4641"CompileC DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/Objects-normal/i386/AppDelegate.o BeaconPeripheralTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/maedaseiya/ios_projects/BeaconPeripheralTest    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/BeaconPeripheralTest-generated-files.hmap -I/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/BeaconPeripheralTest-own-target-headers.hmap -I/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/BeaconPeripheralTest-all-target-headers.hmap -iquote /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/BeaconPeripheralTest-project-headers.hmap -I/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/DerivedSources/i386 -I/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/DerivedSources -F/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator -include /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/PrecompiledHeaders/BeaconPeripheralTest-Prefix-athjztyhwqgabbeamvlrekrmoqaa/BeaconPeripheralTest-Prefix.pch -MMD -MT dependencies -MF /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/Objects-normal/i386/AppDelegate.dia -c /Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/AppDelegate.m -o /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/Objects-normal/i386/AppDelegate.o36"166064F8-2B4E-43CC-A132-4A991A075902-
-b7AB1F9A9-C425-4B48-AF11-95A30E11A43D
-
-CCompileC DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/Objects-normal/i386/ViewController.o /Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s426300664.644768
-e426300665.067976
-r1
-xCompileC
-xDerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/Objects-normal/i386/ViewController.o
-x/Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/ViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/ViewController.m
-d/Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/ViewController.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/ViewController.m280"CompileC DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/Objects-normal/i386/ViewController.o BeaconPeripheralTest/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb72aa5f8d468b941^6e6911f9d468b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/ViewController.m0000000000000000^4659"CompileC DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/Objects-normal/i386/ViewController.o BeaconPeripheralTest/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/maedaseiya/ios_projects/BeaconPeripheralTest    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/BeaconPeripheralTest-generated-files.hmap -I/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/BeaconPeripheralTest-own-target-headers.hmap -I/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/BeaconPeripheralTest-all-target-headers.hmap -iquote /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/BeaconPeripheralTest-project-headers.hmap -I/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/DerivedSources/i386 -I/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/DerivedSources -F/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator -include /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/PrecompiledHeaders/BeaconPeripheralTest-Prefix-athjztyhwqgabbeamvlrekrmoqaa/BeaconPeripheralTest-Prefix.pch -MMD -MT dependencies -MF /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/Objects-normal/i386/ViewController.dia -c /Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/ViewController.m -o /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/Objects-normal/i386/ViewController.o36"FDC4C9E9-5E29-426B-ACC8-483DE48DB05E-
-b7AB1F9A9-C425-4B48-AF11-95A30E11A43D
-
-CCompileC DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/Objects-normal/i386/main.o /Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s426300664.645521
-e426300665.040760
-r1
-xCompileC
-xDerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/Objects-normal/i386/main.o
-x/Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/main.m
-d/Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/AppDelegate.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/main.m260"CompileC DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/Objects-normal/i386/main.o BeaconPeripheralTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7f84a5f8d468b941^c0930af9d468b941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/main.m0000000000000000^4599"CompileC DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/Objects-normal/i386/main.o BeaconPeripheralTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/maedaseiya/ios_projects/BeaconPeripheralTest    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/BeaconPeripheralTest-generated-files.hmap -I/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/BeaconPeripheralTest-own-target-headers.hmap -I/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/BeaconPeripheralTest-all-target-headers.hmap -iquote /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/BeaconPeripheralTest-project-headers.hmap -I/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/DerivedSources/i386 -I/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/DerivedSources -F/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator -include /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/PrecompiledHeaders/BeaconPeripheralTest-Prefix-athjztyhwqgabbeamvlrekrmoqaa/BeaconPeripheralTest-Prefix.pch -MMD -MT dependencies -MF /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/Objects-normal/i386/main.dia -c /Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/main.m -o /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/Objects-normal/i386/main.o36"DCA5CBA8-EA5D-4596-BB30-5A3E7F5F16D0-
-b7AB1F9A9-C425-4B48-AF11-95A30E11A43D
-
-CCompileStoryboard /Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/Base.lproj/Main.storyboard
-s426300665.352568
-e426300665.550714
-r1
-xCompileStoryboard
-x/Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/Base.lproj/Main.storyboard
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"CompileStoryboard BeaconPeripheralTest/Base.lproj/Main.storyboard65"CompileStoryboard BeaconPeripheralTest/Base.lproj/Main.storyboarda4e35af9d468b941^61fc8cf9d468b941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/Base.lproj/Main.storyboard0000000000000000^950"CompileStoryboard BeaconPeripheralTest/Base.lproj/Main.storyboard    cd /Users/maedaseiya/ios_projects/BeaconPeripheralTest    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app/Base.lproj/Main.storyboardc /Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/Base.lproj/Main.storyboard36"F2884A30-D273-4290-A25C-879529939E37-
-b7AB1F9A9-C425-4B48-AF11-95A30E11A43D
-
-CCopyStringsFile /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app/en.lproj/InfoPlist.strings BeaconPeripheralTest/en.lproj/InfoPlist.strings
-s426300665.352248
-e426300665.359808
-r1
-xCopyStringsFile
-x/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app/en.lproj/InfoPlist.strings
-xBeaconPeripheralTest/en.lproj/InfoPlist.strings
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy BeaconPeripheralTest/en.lproj/InfoPlist.strings185"CopyStringsFile DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app/en.lproj/InfoPlist.strings BeaconPeripheralTest/en.lproj/InfoPlist.strings79ce5af9d468b941^81245cf9d468b941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/en.lproj/InfoPlist.strings0000000000000000^737"CopyStringsFile DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app/en.lproj/InfoPlist.strings BeaconPeripheralTest/en.lproj/InfoPlist.strings    cd /Users/maedaseiya/ios_projects/BeaconPeripheralTest    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app/en.lproj -- BeaconPeripheralTest/en.lproj/InfoPlist.strings36"EE07294A-3FB4-44A6-919F-B2AF2EF65DA2-
-b7AB1F9A9-C425-4B48-AF11-95A30E11A43D
-
-CGenerateDSYMFile /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app.dSYM /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app/BeaconPeripheralTest
-s426300666.995967
-e426300667.060771
-r1
-xGenerateDSYMFile
-x/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app.dSYM
-x/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app/BeaconPeripheralTest
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection160"Generate /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app.dSYM232"GenerateDSYMFile DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app.dSYM DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app/BeaconPeripheralTesta515fffad468b941^999f0ffbd468b941^---0#0#1#-19%DVTDocumentLocation2@158"file:///Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app.dSYM00344ca0deffdf42^910"GenerateDSYMFile DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app.dSYM DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app/BeaconPeripheralTest    cd /Users/maedaseiya/ios_projects/BeaconPeripheralTest    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app/BeaconPeripheralTest -o /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app.dSYM36"049F1EBC-381A-40D8-B049-B5EFE9A46B7D-
-b7AB1F9A9-C425-4B48-AF11-95A30E11A43D
-
-CLd /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app/BeaconPeripheralTest normal i386
-s426300665.068969
-e426300665.350534
-r1
-xLd
-x/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app/BeaconPeripheralTest
-xnormal
-xi386
-d/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/Objects-normal/i386/BeaconPeripheralTest.LinkFileList
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
-d/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/Objects-normal/i386/ViewController.o
-d/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/Objects-normal/i386/AppDelegate.o
-d/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/Objects-normal/i386/main.o
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
-d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreBluetooth.framework/CoreBluetooth
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
-d/usr/lib/libSystem.B.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
-d/usr/lib/system/libcache.dylib
-d/usr/lib/system/libcommonCrypto.dylib
-d/usr/lib/system/libcompiler_rt.dylib
-d/usr/lib/system/libcopyfile.dylib
-d/usr/lib/system/libcorecrypto.dylib
-d/usr/lib/system/libdyld.dylib
-d/usr/lib/system/libkeymgr.dylib
-d/usr/lib/system/liblaunch.dylib
-d/usr/lib/system/libmacho.dylib
-d/usr/lib/system/libquarantine.dylib
-d/usr/lib/system/libremovefile.dylib
-d/usr/lib/system/libsystem_asl.dylib
-d/usr/lib/system/libsystem_blocks.dylib
-d/usr/lib/system/libsystem_c.dylib
-d/usr/lib/system/libsystem_configuration.dylib
-d/usr/lib/system/libsystem_dnssd.dylib
-d/usr/lib/system/libsystem_info.dylib
-d/usr/lib/system/libsystem_kernel.dylib
-d/usr/lib/system/libsystem_m.dylib
-d/usr/lib/system/libsystem_malloc.dylib
-d/usr/lib/system/libsystem_notify.dylib
-d/usr/lib/system/libsystem_platform.dylib
-d/usr/lib/system/libsystem_pthread.dylib
-d/usr/lib/system/libsystem_sandbox.dylib
-d/usr/lib/system/libunc.dylib
-d/usr/lib/system/libunwind.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection172"Link /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app/BeaconPeripheralTest130"Ld DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app/BeaconPeripheralTest normal i386cbbc11f9d468b941^c7bd59f9d468b941^---0#0#1#--1819"Ld DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app/BeaconPeripheralTest normal i386    cd /Users/maedaseiya/ios_projects/BeaconPeripheralTest    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator -F/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator -filelist /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/Objects-normal/i386/BeaconPeripheralTest.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreLocation -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/Objects-normal/i386/BeaconPeripheralTest_dependency_info.dat -o /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app/BeaconPeripheralTest36"E3F70998-BF4C-4D4F-91AC-949464E52B93-
-b7AB1F9A9-C425-4B48-AF11-95A30E11A43D
-
-CProcessInfoPlistFile /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app/Info.plist /Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/BeaconPeripheralTest-Info.plist
-s426300666.990540
-e426300666.995088
-r1
-xProcessInfoPlistFile
-x/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app/Info.plist
-x/Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/BeaconPeripheralTest-Info.plist
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Process /Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/BeaconPeripheralTest-Info.plist179"ProcessInfoPlistFile DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app/Info.plist BeaconPeripheralTest/BeaconPeripheralTest-Info.plist37a8fdfad468b941^e4bdfefad468b941^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/BeaconPeripheralTest-Info.plist0000000000000000^1196"ProcessInfoPlistFile DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app/Info.plist BeaconPeripheralTest/BeaconPeripheralTest-Info.plist    cd /Users/maedaseiya/ios_projects/BeaconPeripheralTest    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/BeaconPeripheralTest-Info.plist -genpkginfo /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/assetcatalog_generated_info.plist -o /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app/Info.plist36"4E020973-A07E-4D55-BBA9-DB94C41ECBE2-
-b7AB1F9A9-C425-4B48-AF11-95A30E11A43D
-
-CProcessPCH /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/PrecompiledHeaders/BeaconPeripheralTest-Prefix-athjztyhwqgabbeamvlrekrmoqaa/BeaconPeripheralTest-Prefix.pch.pch BeaconPeripheralTest/BeaconPeripheralTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s426300664.107104
-e426300664.643977
-r1
-xProcessPCH
-x/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/PrecompiledHeaders/BeaconPeripheralTest-Prefix-athjztyhwqgabbeamvlrekrmoqaa/BeaconPeripheralTest-Prefix.pch.pch
-xBeaconPeripheralTest/BeaconPeripheralTest-Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/BeaconPeripheralTest-Prefix.pch
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Precompile BeaconPeripheralTest/BeaconPeripheralTest-Prefix.pch296"ProcessPCH DerivedData/BeaconPeripheralTest/Build/Intermediates/PrecompiledHeaders/BeaconPeripheralTest-Prefix-athjztyhwqgabbeamvlrekrmoqaa/BeaconPeripheralTest-Prefix.pch.pch BeaconPeripheralTest/BeaconPeripheralTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerac8b1bf8d468b941^c2dea4f8d468b941^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/BeaconPeripheralTest-Prefix.pch0000000000000000^4468"ProcessPCH DerivedData/BeaconPeripheralTest/Build/Intermediates/PrecompiledHeaders/BeaconPeripheralTest-Prefix-athjztyhwqgabbeamvlrekrmoqaa/BeaconPeripheralTest-Prefix.pch.pch BeaconPeripheralTest/BeaconPeripheralTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/maedaseiya/ios_projects/BeaconPeripheralTest    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/BeaconPeripheralTest-generated-files.hmap -I/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/BeaconPeripheralTest-own-target-headers.hmap -I/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/BeaconPeripheralTest-all-target-headers.hmap -iquote /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/BeaconPeripheralTest-project-headers.hmap -I/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/DerivedSources/i386 -I/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/BeaconPeripheralTest.build/Debug-iphonesimulator/BeaconPeripheralTest.build/DerivedSources -F/Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/PrecompiledHeaders/BeaconPeripheralTest-Prefix-athjztyhwqgabbeamvlrekrmoqaa/BeaconPeripheralTest-Prefix.pch.dia -MMD -MT dependencies -MF /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/PrecompiledHeaders/BeaconPeripheralTest-Prefix-athjztyhwqgabbeamvlrekrmoqaa/BeaconPeripheralTest-Prefix.pch.d -c /Users/maedaseiya/ios_projects/BeaconPeripheralTest/BeaconPeripheralTest/BeaconPeripheralTest-Prefix.pch -o /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Intermediates/PrecompiledHeaders/BeaconPeripheralTest-Prefix-athjztyhwqgabbeamvlrekrmoqaa/BeaconPeripheralTest-Prefix.pch.pch36"8934B74A-71AE-4427-9782-A73A4AC15C53-
-b7AB1F9A9-C425-4B48-AF11-95A30E11A43D
-
-CProcessPCH /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Index/PrecompiledHeaders/BeaconPeripheralTest-Prefix-gtasnuhawvzfgnbpfpvwakygjotn_ast/BeaconPeripheralTest-Prefix.pch.pch BeaconPeripheralTest/BeaconPeripheralTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CTouch /Users/maedaseiya/ios_projects/BeaconPeripheralTest/DerivedData/BeaconPeripheralTest/Build/Products/Debug-iphonesimulator/BeaconPeripheralTest.app
-r0
-
